@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>tomasz.czechlewski</sys_created_by>
+        <sys_created_on>2022-07-12 19:27:57</sys_created_on>
+        <sys_id>c8904d5b1ba8111068dec991604bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793388_new_joine_trainings.x_793388_new_joine.trainings_user</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_793388_new_joine">6f6663871b64111068dec991604bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</sys_scope>
+        <sys_security_acl display_value="x_793388_new_joine_trainings">c0904d5b1ba8111068dec991604bcb39</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c8904d5b1ba8111068dec991604bcb3b</sys_update_name>
+        <sys_updated_by>tomasz.czechlewski</sys_updated_by>
+        <sys_updated_on>2022-07-12 19:27:57</sys_updated_on>
+        <sys_user_role display_value="x_793388_new_joine.trainings_user" name="x_793388_new_joine.trainings_user">7780c1d71ba8111068dec991604bcb5b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

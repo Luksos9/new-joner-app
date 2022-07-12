@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_793388_new_joine.manager</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>manager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>tomasz.czechlewski</sys_created_by>
+        <sys_created_on>2022-07-12 19:30:33</sys_created_on>
+        <sys_id>5821099b1ba8111068dec991604bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793388_new_joine.manager</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_793388_new_joine">6f6663871b64111068dec991604bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</sys_scope>
+        <sys_update_name>sys_user_role_5821099b1ba8111068dec991604bcb93</sys_update_name>
+        <sys_updated_by>tomasz.czechlewski</sys_updated_by>
+        <sys_updated_on>2022-07-12 19:30:33</sys_updated_on>
+    </sys_user_role>
+</record_update>
