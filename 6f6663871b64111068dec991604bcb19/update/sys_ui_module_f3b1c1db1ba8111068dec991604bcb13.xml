@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ta">37b181db1ba8111068dec991604bcb4a</application>
+        <filter/>
+        <name>Tasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_793388_new_joine.task_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>tomasz.czechlewski</sys_created_by>
+        <sys_created_on>2022-07-12 19:33:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3b1c1db1ba8111068dec991604bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_793388_new_joine">6f6663871b64111068dec991604bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</sys_scope>
+        <sys_update_name>sys_ui_module_f3b1c1db1ba8111068dec991604bcb13</sys_update_name>
+        <sys_updated_by>tomasz.czechlewski</sys_updated_by>
+        <sys_updated_on>2022-07-12 19:33:08</sys_updated_on>
+        <table>x_793388_new_joine_task</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

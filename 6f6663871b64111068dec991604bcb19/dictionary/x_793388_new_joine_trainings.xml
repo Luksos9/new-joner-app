@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Trainings" max_length="40" name="x_793388_new_joine_trainings" type="collection">
+        <element label="Cost" max_length="20" name="cost" type="price"/>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element label="Training Type" max_length="40" name="training_type" type="string"/>
+    </element>
+</database>
