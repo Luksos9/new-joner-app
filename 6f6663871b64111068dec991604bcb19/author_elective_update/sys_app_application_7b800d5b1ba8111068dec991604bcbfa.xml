@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Trainings</name>
+        <order>100</order>
+        <roles>x_793388_new_joine.trainings_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>tomasz.czechlewski</sys_created_by>
+        <sys_created_on>2022-07-12 19:27:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b800d5b1ba8111068dec991604bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trainings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="New Joiners Managment" source="x_793388_new_joine">6f6663871b64111068dec991604bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</sys_scope>
+        <sys_update_name>sys_app_application_7b800d5b1ba8111068dec991604bcbfa</sys_update_name>
+        <sys_updated_by>tomasz.czechlewski</sys_updated_by>
+        <sys_updated_on>2022-07-12 19:27:57</sys_updated_on>
+        <title>Trainings</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</application>
+        <file_path/>
+        <instance_id>103583e9db0c3450ad8dd7c8f49619fc</instance_id>
+        <instance_name>dev115063</instance_name>
+        <name>sys_app_application_7b800d5b1ba8111068dec991604bcbfa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Trainings</name><order>100</order><roles>x_793388_new_joine.trainings_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>tomasz.czechlewski</sys_created_by><sys_created_on>2022-07-12 19:27:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7b800d5b1ba8111068dec991604bcbfa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Trainings</sys_name><sys_overrides/><sys_package display_value="New Joiners Managment" source="x_793388_new_joine">6f6663871b64111068dec991604bcb19</sys_package><sys_policy/><sys_scope display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</sys_scope><sys_update_name>sys_app_application_7b800d5b1ba8111068dec991604bcbfa</sys_update_name><sys_updated_by>tomasz.czechlewski</sys_updated_by><sys_updated_on>2022-07-12 19:27:57</sys_updated_on><title>Trainings</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1004386111</payload_hash>
+        <record_name>Trainings</record_name>
+        <reverted_from/>
+        <source>6cdfbc1b1ba8111068dec991604bcbae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tomasz.czechlewski</sys_created_by>
+        <sys_created_on>2022-07-12 19:27:57</sys_created_on>
+        <sys_id>48900d5b1ba8111068dec991604bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f3e1e7310000001</sys_recorded_at>
+        <sys_updated_by>tomasz.czechlewski</sys_updated_by>
+        <sys_updated_on>2022-07-12 19:27:57</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>80900d5b47a811103e0f3301b0d99afd</update_guid>
+        <update_guid_history>80900d5b47a811103e0f3301b0d99afd:-1004386111</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Trainings">fbe65db747601110b0b8a946926d4325</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-14 10:22:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>002423f676be492080000ad422ccd0e9</sys_id>
+        <sys_metadata>7b800d5b1ba8111068dec991604bcbfa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trainings</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_793388_new_joine">6f6663871b64111068dec991604bcb19</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</sys_scope>
+        <sys_scope_delete display_value="">b70d99ac778c44fb9bd9ab92e32063a9</sys_scope_delete>
+        <sys_update_name>sys_app_application_7b800d5b1ba8111068dec991604bcbfa</sys_update_name>
+        <sys_update_version display_value="sys_app_application_7b800d5b1ba8111068dec991604bcbfa">48900d5b1ba8111068dec991604bcbfd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-14 10:22:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

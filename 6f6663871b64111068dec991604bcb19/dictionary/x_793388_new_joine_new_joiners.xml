@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="sys_user" label="New Joiners" max_length="40" name="x_793388_new_joine_new_joiners" sizeclass="5" type="collection">
+        <element label="Level" max_length="40" name="level" type="integer"/>
+    </element>
+</database>

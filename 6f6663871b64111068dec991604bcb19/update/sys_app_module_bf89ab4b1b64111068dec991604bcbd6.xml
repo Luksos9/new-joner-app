@@ -12,8 +12,8 @@
         <map_page/>
         <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>sys_user</name>
-        <order>2</order>
+        <name>x_793388_new_joine_new_joiners</name>
+        <order>110</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,15 +24,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bf89ab4b1b64111068dec991604bcbd6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_793388_new_joine_new_joiners</sys_name>
         <sys_overrides/>
         <sys_package display_value="New Joiners Managment" source="x_793388_new_joine">6f6663871b64111068dec991604bcb19</sys_package>
         <sys_policy/>
         <sys_scope display_value="New Joiners Managment">6f6663871b64111068dec991604bcb19</sys_scope>
         <sys_update_name>sys_app_module_bf89ab4b1b64111068dec991604bcbd6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-12 13:07:50</sys_updated_on>
+        <sys_updated_on>2022-07-14 10:27:21</sys_updated_on>
         <timeline_page/>
         <title>Create New</title>
         <uncancelable>false</uncancelable>
